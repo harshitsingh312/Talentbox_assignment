@@ -1,0 +1,5 @@
+1. SVMs can handle high-dimensional data and perform well with small datasets. Also SVMs can model non-linear decision boundaries with high accuracy.
+2. Tuning parameters of SVM are its Kernel, regularization parameter, Gamma value and decided Margin width.
+3. Other choices of classification algorithms used were RandomForestClassifier and the GaussianNaiveBayes Classifier. Accuracy received from GaussianNB was decent and from RandomForest was comparable to the SVM.
+4. SVM gave an accuracy value of 87.8%
+5. Metrics used for model evaluation were Accuracy score and Confusion matrix.
